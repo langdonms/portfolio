@@ -1,0 +1,50 @@
+       body {
+           font-family: 'Proza Libre', sans-serif;
+           background-color: #fdf5e7;
+           <!-- light beige color FFFBB7--> 
+           <!-- light blush color fdf5e7 -->
+       }
+       h1 {
+           font-family: 'Cormorant Garamond', serif;
+           font-size: 8vw;
+           font-variant: small-caps;
+       }
+       h2 {
+           font-family: 'Cormorant Garamond', serif;
+           font-size: 6vw;
+           font-variant: small-caps;
+       }
+       h3 {
+           font-family: 'Cormorant Garamond', serif;
+           font-variant: small-caps;
+       }
+       
+       h4 {
+           font-family: 'Proza Libre', sans-serif;
+       }
+       .container {
+         padding: 15px;
+       }
+       
+       .img-fluid {
+       border-style: solid;
+       border-radius: 50px;
+       border-color: #D38B37;
+       }
+       
+       .btn-primary {
+       background-color: #4E0003;
+       }
+       .colbackground {
+       background-color: #B46648;
+       border-radius: 10px; 
+       }
+       .colbackground2 {
+       background-color: #B46648;
+       border-radius: 10px; 
+       }
+       }
+       .padding-0{
+           padding-right:0;
+           padding-left:0;
+       }
