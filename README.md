@@ -45,6 +45,11 @@ Working Through [these tutorials](https://material.io/collections/developer-tuto
   
   For typography, need to install with npm and import in SCSS `@import "@material/typography/mdc-typography";` that as well. Made a line separator in the list. Adjsuted image arrangement and subtitles. Adding "elevation" component for images. [Details on elevation here.](https://material.io/develop/web/components/elevation/) Steps again are... install the component using npm, import it in the `.scss` file, make a element with a class in `.html`, then in the `.scss` file write the stylings for that element with `.class-name {thing-to-change: value;}`  
   Image lists [reference here:](https://github.com/material-components/material-components-web/blob/master/packages/mdc-image-list/README.md#variants)
+- [x] [MDC Web111](https://codelabs.developers.google.com/codelabs/mdc-111-web/#1) Changed a button, installed and imported button component, styled, add ripple effect. Changed the `<select>` style (for drop-down lists), also used a select icon. Use MDC classes in html, import and initiate in the JS file with `import {MDC-name} from '@material/mdc-name';` and then initiating as`new variable(document.querySelector('.class-name'));`  On to text fields. Added the textfield component, installed, and made a class in the markup - this careated a subtle but intutive text input field rather than a plain white box. 
   
 ## Next steps, implementing in my project.
 ### Let's create a branch to use Material Design
+
+Note about npm and Node, the examples above start with `npm install` then `npm start` which is activating the dependences and start commands written written in those modudles, see help on [npm start](https://docs.npmjs.com/cli/start.html)
+>Install the dependencies in the local node_modules folder. In global mode (ie, with -g or --global appended to the command), it installs the current package context (ie, the current working directory) as a global package. By default, npm install will install all modules listed as dependencies in package.json." [npm install](https://docs.npmjs.com/cli/install.html)  
+Look in the `package.json` in the root folder to see the scripts and dependencies.  Now continuing with MDC Web111.
