@@ -29,3 +29,7 @@ I'm recreating my portfolio site from scratch. It's currently hosted at https://
 
 * [Material Design](https://material.io/develop/)  
    Great design qualities with emphasis on usability. A great opportunity to try learning a new framework.
+   
+#### Learning Material Design
+   * [Starting Web Tutorial](https://material.io/collections/developer-tutorials/#web)
+     * completed [MDC Web101](https://codelabs.developers.google.com/codelabs/mdc-101-web/#0) - learned how to create a dev environment, create input fields, add buttons, add CSS classes and import MDC (Material Design Components). 
