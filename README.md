@@ -32,4 +32,4 @@ I'm recreating my portfolio site from scratch. It's currently hosted at https://
    
 #### Learning Material Design
    * [Starting Web Tutorial](https://material.io/collections/developer-tutorials/#web)
-     * completed [MDC Web101](https://codelabs.developers.google.com/codelabs/mdc-101-web/#0) - learned how to create a dev environment, create input fields, add buttons, add CSS classes and import MDC (Material Design Components). 
+     * completed [MDC Web101](https://codelabs.developers.google.com/codelabs/mdc-101-web/#0) - learned how to create a dev environment, create input fields, add buttons, add CSS classes and import MDC (Material Design Components). [*Learn about more components here*](https://material.io/components/web/catalog/)
