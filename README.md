@@ -30,6 +30,10 @@ I'm recreating my portfolio site from scratch. It's currently hosted at https://
 * [Material Design](https://material.io/develop/)  
    Great design qualities with emphasis on usability. A great opportunity to try learning a new framework.
    
-#### Learning Material Design
-   * [Starting Web Tutorial](https://material.io/collections/developer-tutorials/#web)
-     * completed [MDC Web101](https://codelabs.developers.google.com/codelabs/mdc-101-web/#0) - learned how to create a dev environment, create input fields, add buttons, add CSS classes and import MDC (Material Design Components). [*Learn about more components here*](https://material.io/components/web/catalog/)
+## Learning Material Design  
+Working Through [these tutorials](https://material.io/collections/developer-tutorials/#web)
+
+- [x] [MDC Web101](https://codelabs.developers.google.com/codelabs/mdc-101-web/#0) - learned how to create a dev environment, create input fields, add buttons, add CSS classes and import MDC (Material Components). [*Learn about more components here*](https://material.io/components/web/catalog/)
+- [ ] started [MDC Web102](https://codelabs.developers.google.com/codelabs/mdc-102-web/#0) - looks promising learning "A navigation drawer, An image list full of products". Notes, the Drawer needs the list components, so you install both. 
+       `npm install @material/drawer@1.0.1 @material/list@1.0.1`
+       * Drawer and Image List 
