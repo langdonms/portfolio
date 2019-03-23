@@ -34,6 +34,10 @@ I'm recreating my portfolio site from scratch. It's currently hosted at https://
 Working Through [these tutorials](https://material.io/collections/developer-tutorials/#web)
 
 - [x] [MDC Web101](https://codelabs.developers.google.com/codelabs/mdc-101-web/#0) - learned how to create a dev environment, create input fields, add buttons, add CSS classes and import MDC (Material Components). [*Learn about more components here*](https://material.io/components/web/catalog/)
-- [ ] started [MDC Web102](https://codelabs.developers.google.com/codelabs/mdc-102-web/#0) - looks promising learning "A navigation drawer, An image list full of products". Notes, the Drawer needs the list components, so you install both. 
-       `npm install @material/drawer@1.0.1 @material/list@1.0.1`
-       * Drawer and Image List 
+- [ ] [MDC Web102](https://codelabs.developers.google.com/codelabs/mdc-102-web/#0) - looks promising learning "A navigation drawer, An image list full of products". Notes, the Drawer needs the list components, so you install both. 
+       `npm install @material/drawer@1.0.1 @material/list@1.0.1`  
+    Learning Drawer and Image List. 
+   - Install the components needed using NPM Add the HTML. Add CSS (import and style),initiate with JS. Both CSS and JS use import.
+   > "Note: We use the standard Navigation Drawer variant in this codelab. The standard variant has no drawer-specific logic, so we instantiate the MDCList inside of it directly. Dismissible and modal variants also exist, which use a dedicated MDCDrawer component for additional features. You can find out more about the MDC Navigation Drawer variants in the [documentation](https://material.io/develop/web/components/drawers/)."  
+   - On the image list, note the `product-list` class
+- [ ] [MDC Web103](https://codelabs.developers.google.com/codelabs/mdc-103-web) Customizing
