@@ -63,4 +63,8 @@ Note about npm and Node, the examples above start with `npm install` then `npm s
 >Install the dependencies in the local node_modules folder. In global mode (ie, with -g or --global appended to the command), it installs the current package context (ie, the current working directory) as a global package. By default, npm install will install all modules listed as dependencies in package.json." [npm install](https://docs.npmjs.com/cli/install.html)  
 Look in the `package.json` in the root folder to see the scripts and dependencies.  Now continuing with MDC Web111.
 
+~## Back to Material Design Lite
+After struggling with trying to compile and build the application locally I realized I was in over my head with Node, npm, Sass, webpack, etc. I will come back to these tools but the purpose of this exercise is to mainly create the website and Material Design Lite lets me use the design concepts of MD without all the hassle~
 
+## Material Design for Bootstrap
+Using the template from these folks https://mdbootstrap.com/docs/jquery/getting-started/download/ to get working with the design concepts while not using MD Lite which appears to be deprecated. New repo at https://github.com/langdonms/portfolio-mdb 
