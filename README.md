@@ -3,7 +3,7 @@
 
 Now moving onto Material Design for Bootstrap after being in over my head with compiling MDC for the web locally. https://github.com/langdonms/portfolio-mdb
 
-# Updating my portfolio
+# About
 ### Why?
 I'm recreating my portfolio site from scratch. It's currently hosted at https://langdonsanders.com built with WordPress theme that not require any custom code and has a dated aesthetic.
 
