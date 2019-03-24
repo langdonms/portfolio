@@ -1,7 +1,12 @@
 # Update: Creating a new Repo
 ~I'm restarted this project on a new Repo to install Material Design Components for the web locally. Hopping over there. https://github.com/langdonms/portfolio-md~
 
-Now moving onto Material Design for Bootstrap after being in over my head with compiling MDC for the web locally. https://github.com/langdonms/portfolio-mdb
+Tried building locally using starter kit and adding a drawer but getting failure to compil issues after starting with the starter kit
+https://github.com/langdonms/portfolio-mdc-starter-kit
+
+Also trying Material Design for Bootstrap after being in over my head with compiling MDC for the web locally. https://github.com/langdonms/portfolio-mdb
+
+## Maybe I should just revert to Bootstrap 4? 
 
 # About
 ### Why?
