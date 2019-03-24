@@ -1,3 +1,6 @@
+# Update: Creating a new Repo
+I'm restarted this project on a new Repo to install Material Design Components for the web locally. Hopping over there. https://github.com/langdonms/portfolio-md
+
 # Updating my portfolio
 ### Why?
 I'm recreating my portfolio site from scratch. It's currently hosted at https://langdonsanders.com built with WordPress theme that not require any custom code and has a dated aesthetic.
@@ -48,8 +51,16 @@ Working Through [these tutorials](https://material.io/collections/developer-tuto
 - [x] [MDC Web111](https://codelabs.developers.google.com/codelabs/mdc-111-web/#1) Changed a button, installed and imported button component, styled, add ripple effect. Changed the `<select>` style (for drop-down lists), also used a select icon. Use MDC classes in html, import and initiate in the JS file with `import {MDC-name} from '@material/mdc-name';` and then initiating as`new variable(document.querySelector('.class-name'));`  On to text fields. Added the textfield component, installed, and made a class in the markup - this careated a subtle but intutive text input field rather than a plain white box. 
   
 ## Next steps, implementing in my project.
-### Let's create a branch to use Material Design
+~### Can use CDN of [Material Desgn Lite](https://getmdl.io/started/) MDL
+This is probably the easiest way to get started. Just reference the CDN.~
+>MDL is being replaced by [Material Components for the web (MDC Web)](https://material.io/develop/web/docs/migrating-from-mdl/)
 
+### Material Components for the Web
+[Getting Started](https://material.io/develop/web/docs/getting-started/) however it only is installed through npm, not a CDN. Could go with Material Design Lite but if that's going to be deprecated and/or this might be a good opporunity to learn npm. Can use unpkg to get the sources too. Can load all components or just the ones I need, probably best to be more lightweight and only pull what I use.
+
+### NPM and Node
 Note about npm and Node, the examples above start with `npm install` then `npm start` which is activating the dependences and start commands written written in those modudles, see help on [npm start](https://docs.npmjs.com/cli/start.html)
 >Install the dependencies in the local node_modules folder. In global mode (ie, with -g or --global appended to the command), it installs the current package context (ie, the current working directory) as a global package. By default, npm install will install all modules listed as dependencies in package.json." [npm install](https://docs.npmjs.com/cli/install.html)  
 Look in the `package.json` in the root folder to see the scripts and dependencies.  Now continuing with MDC Web111.
+
+
