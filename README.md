@@ -6,7 +6,7 @@ https://github.com/langdonms/portfolio-mdc-starter-kit
 
 Also trying Material Design for Bootstrap after being in over my head with compiling MDC for the web locally. https://github.com/langdonms/portfolio-mdb
 
-## Maybe I should just revert to Bootstrap 4? 
+## Maybe I should just revert to Bootstrap 4? :thinking:
 
 # About
 ### Why?
